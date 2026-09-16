@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+.env
+
+# Dados sensíveis e arquivos grandes
+
+# Survey bruta (140MB+) — baixar manualmente em https://insights.stackoverflow.com/survey/
+data/survey_results_public.csv
+
+# Base gerada pelo ETL (regenerada via etl_survey.py)
+data/perfis_mercado.CSV
+
+.streamlit/secrets.toml
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
