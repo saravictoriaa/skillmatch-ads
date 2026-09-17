@@ -110,9 +110,8 @@ python main.py
 
 | Nome | Contribuição |
 |------|--------------|
-| **Sara Victória Da Costa Silva** | Arquitetura de software, modelagem do algoritmo de IA (TF-IDF, Custom Tokenizer, métrica híbrida) e lógica prescritiva do Roadmap |
+| **Sara Victória Da Costa Silva** | Arquitetura de software, modelagem do algoritmo de IA (TF-IDF, Custom Tokenizer, métrica híbrida) e lógica prescritiva do Roadmap, Pipeline de ETL, limpeza e tratamento da base da Stack Overflow com Pandas |
 | **Alexandre Kauê Lima Amorim** | Revisão bibliográfica, fundamentação teórica, redação e formatação ABNT do relatório |
-| **Jó Brandão Pimentel** | Pipeline de ETL, limpeza e tratamento da base da Stack Overflow com Pandas |
 | **Phellipe Duarte Araújo** | Desenvolvimento do Front-End em Streamlit, UX/UI, testes de interface e roteiro do videocast |
 
 ---
